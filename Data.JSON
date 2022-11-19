@@ -1,0 +1,19 @@
+{
+    "Updates": {
+        "Version": "1.0",
+        "Announcements": ""
+    },
+    "KeySystem": {
+        "Enabled": true,
+        "Key": "MDgxMDg0MTAzMDQ4MDgyMDY4MDY2MDgxMDgyMDQ5MTA4MDc0MDg2MTE5MDYxMDYx"
+    },
+    "Feedbacks": {
+        "Enabled": true,
+        "Cooldown": 180
+    },
+    "Advanced": {
+        "Executable": true,
+        "DiscordInvite": "EWr5WckP4Y",
+        "Netless": "https://pastebin.com/raw/3FfXxBQ7"
+    }
+}
